@@ -1,0 +1,70 @@
+.a{
+	color: red;
+}
+.b{
+	background-color: yellow; 
+	background-size: cover;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	background: white;
+}
+body{
+	background: #a19c95;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+ }
+
+ button{
+			background-color: yellow;
+			box-shadow: rgb(237,119,119);
+
+		}
+		button:hover{
+			background-color: yellow;
+
+		}
+		button:active{
+			background-color: #d6cd24;
+	
+		}
+
+		input[type=button]
+{
+	border-style: solid;
+	border: black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 190px;
+	background:#f23d24;
+	color: #000;
+	font-size:16px;
+
+}
+.vid{
+	position: relative;
+	left: 300px;
+	bottom: 4420px;
+
+
+	
+
+}
+/*.moviename{
+	position: relative;
+	left: 300px;
+	bottom: 2150px;
+	text-decoration: none;*/
+
+
+}
+#{
+	text-decoration: none;
+}
+#wholepage{
+	margin-bottom:10px; 
+
+}
